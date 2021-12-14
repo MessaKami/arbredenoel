@@ -1,0 +1,21 @@
+#ins{
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+body{
+    background-image: url(https://st3.depositphotos.com/1010735/12797/v/950/depositphotos_127978622-stock-illustration-christmas-background-with-fir-branches.jpg);
+}
+form{
+    flex-direction: column;
+    justify-content: center;
+}
+#cad{
+    width: 375px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 600px;
+    top: 400px;
+}

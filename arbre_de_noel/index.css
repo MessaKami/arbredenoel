@@ -1,0 +1,31 @@
+body{
+    background: "planche.jpg";
+     height: 100vh;
+    display: flex;
+
+    
+left: auto;
+}
+.container{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: absolute;
+    
+}
+
+
+#sap{
+    margin-top: auto;
+	width: 40%;
+    height: 60%
+}
+#fir{
+    width: 50%;
+    height: 30%;
+    display: flex;
+    justify-content: right;
+    padding-top: 40%;
+    padding-bottom:40% ;
+}
